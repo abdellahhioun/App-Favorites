@@ -1,0 +1,460 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+.backgroundapps{
+width: 1263px;
+height: 40vw;
+}
+.titleofapps{
+font-family: "Radio Canada Big";
+font-size: 60px;
+position: absolute;
+top: 8px;
+left: 16px;
+color: white;
+
+}
+
+.instagrameh1{
+font-family: "Radio Canada Big";
+font-size: 50px;
+margin-top: 50px;
+margin-left: 33px;
+}
+.instagrameimg{
+width: 150px;
+border-radius: 30px;
+}
+.imgandh1{
+    display: flex;
+    flex-direction: row;
+}
+.instagramep1{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+
+}
+.allinstagram{
+margin-top: 90px;
+margin-left: 22px;
+
+}
+.instagrama{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+text-decoration: none;
+display: inline-block;
+background-color: rgb(207, 29, 59);
+padding: 10px 10px;
+border-radius: 30px;
+color: white;
+}
+.tiktoklogo{
+width: 250px;
+}
+.tiktokh1{
+    font-family: "Radio Canada Big";
+font-size: 50px;
+margin-top: 100px;
+}
+.tiktokimgandh1{
+display: flex;
+flex-direction: row;
+
+}
+.tiktokp1{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+margin-left: 30px;
+}
+.tiktoka{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: rgb(6, 0, 1);
+    padding: 10px 10px;
+    border-radius: 30px;
+    color: white;
+margin-left: 27px;
+}
+
+.youtubelogo{
+width: 250px;
+
+}
+.youtubeimgandh1{
+display: flex;
+flex-direction: row;
+
+
+}
+.youtubeh1{
+font-family: "Radio Canada Big";
+font-size:50px;
+margin-top: 90px;
+}
+.youtubep1{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+margin-left: 30px;
+}
+.youtubea{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: rgb(255, 0, 0);
+    padding: 10px 10px;
+    border-radius: 30px;
+    color: white;
+margin-left: 27px;
+}
+.insta{
+
+.instalogoo
+{
+    width: 17vw;
+    border-radius: 70px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.instagramh1{
+    font-family: "Lobster";
+    font-size: 80px;
+}
+.imgh1{
+    display: flex;
+align-items: center;
+    flex-direction: column;
+    margin-right: 30px;
+}
+.apercu{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 60px;
+
+
+}
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.versionpcinsta{
+display: inline-block;
+background-color: rgb(255, 0, 43);
+padding: 9px 9px;
+text-decoration: none;
+border-radius: 10px;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+margin-left: 10px;
+}
+.versionmobileinsta{
+    display: inline-block;
+    background-color: rgb(255, 0, 43);
+    padding: 9px 9px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 20px;
+    margin: 10px;
+
+}
+.handp{
+margin-left: 30px;
+}
+.aanda{
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+.Acceuil{
+
+    display: inline-block;
+    background-color: rgb(255, 0, 43);
+    padding: 9px 9px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 20px;
+    margin: 10px;
+
+}
+.footerimginsta{
+width: 40px;
+border-radius: 33px;
+
+
+}
+.personnel{
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+margin-left: 20px;
+margin-top: 10px;
+display: inline-block;
+background-color: rgb(255, 0, 43);
+padding: 5px 5px;
+border-radius: 5px;
+color: white;
+
+}
+.imga{
+    display: flex;
+    flex-direction: row;
+}
+}
+
+
+.tiktok{
+.logotiktok{
+width: 400px;
+
+}
+.tiktokh1{
+    font-family: "Lobster";
+    font-size: 90px;
+
+}
+.imgandh{
+display: flex;
+flex-direction: row;
+align-items: center;
+}
+.apercu2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    margin-left: 30px;
+}
+.ptiktok{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+margin-left: 30px;
+}
+.versionpctiktok{
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+display: inline-block;
+background-color: black;
+color: white;
+padding: 9px 9px;
+border-radius: 20px;
+}
+.versionmobiletiktok{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 9px 9px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.aanda2{
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+.Acceuil2{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 9px 9px;
+    border-radius: 20px;
+    margin: 10px;
+}
+}
+
+.youtube{
+
+.logoyoutube{
+width: 300px;
+}
+
+.h1youtube{
+font-family:"Lobster" ;
+font-size: 90px;
+margin-bottom: 60px;
+}
+.youtubeimgandh{
+display: flex;
+align-items: center;
+}
+.apercu3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    margin-left: 30px;
+}
+.youtubep2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+margin-left: 30px;
+}
+.Acceuil3{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;        font-size: 20px;
+    display: inline-block;
+    background-color: black;
+        color: white;
+        padding: 9px 9px;
+        border-radius: 20px;
+        margin: 10px;
+
+
+}
+.pcversion{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 9px 9px;
+    border-radius: 20px;
+margin: 10px;
+}
+.mobileversion{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 9px 9px;
+    border-radius: 20px;
+
+
+
+}
+.lasta{
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
